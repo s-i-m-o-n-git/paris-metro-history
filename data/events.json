@@ -6,11 +6,16 @@
     "target": "line_01"
   },
 
-  { "id": "event_000002", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_porte_maillot" },
-  { "id": "event_000003", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_argentine" },
-  { "id": "event_000004", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_etoile" },
-  { "id": "event_000005", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_concorde" },
-  { "id": "event_000006", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_chatelet" },
-  { "id": "event_000007", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_bastille" },
-  { "id": "event_000008", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_nation" }
+  { "id": "event_000010", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_nation" },
+  { "id": "event_000011", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_bastille" },
+  { "id": "event_000012", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_chatelet" },
+  { "id": "event_000013", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_concorde" },
+  { "id": "event_000014", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_etoile" },
+  { "id": "event_000015", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_porte_maillot" },
+
+  { "id": "event_000020", "date": "1937-04-29", "type": "platform_opened", "target": "platform_l1_sablons" },
+  { "id": "event_000021", "date": "1937-04-29", "type": "platform_opened", "target": "platform_l1_pont_neuilly" },
+
+  { "id": "event_000030", "date": "1992-04-01", "type": "platform_opened", "target": "platform_l1_esplanade" },
+  { "id": "event_000031", "date": "1992-04-01", "type": "platform_opened", "target": "platform_l1_la_defense" }
 ]
