@@ -1,11 +1,17 @@
 [
-  {
-    "id": "line_01",
-    "number": "1",
-    "name": "Ligne 1",
-    "color": "#FFCD00",
-    "mode": "metro",
-    "opened": "1900-07-19",
-    "closed": null
-  }
+  { "id": "line_01", "number": "1", "name": "Ligne 1", "color": "#FFCD00", "mode": "metro", "opened": "1900-07-19", "closed": null },
+
+  { "id": "line_02", "number": "2", "name": "Ligne 2", "color": "#0064B0", "mode": "metro", "opened": "1903-01-31", "closed": null },
+  { "id": "line_03", "number": "3", "name": "Ligne 3", "color": "#837902", "mode": "metro", "opened": "1904-10-19", "closed": null },
+  { "id": "line_04", "number": "4", "name": "Ligne 4", "color": "#C04191", "mode": "metro", "opened": "1908-04-21", "closed": null },
+  { "id": "line_05", "number": "5", "name": "Ligne 5", "color": "#F28E42", "mode": "metro", "opened": "1906-06-17", "closed": null },
+  { "id": "line_06", "number": "6", "name": "Ligne 6", "color": "#79CDBA", "mode": "metro", "opened": "1909-10-06", "closed": null },
+  { "id": "line_07", "number": "7", "name": "Ligne 7", "color": "#F3A4BA", "mode": "metro", "opened": "1910-11-05", "closed": null },
+  { "id": "line_08", "number": "8", "name": "Ligne 8", "color": "#CEADD2", "mode": "metro", "opened": "1913-07-13", "closed": null },
+  { "id": "line_09", "number": "9", "name": "Ligne 9", "color": "#D5C900", "mode": "metro", "opened": "1922-06-10", "closed": null },
+  { "id": "line_10", "number": "10", "name": "Ligne 10", "color": "#E3B32A", "mode": "metro", "opened": "1923-12-30", "closed": null },
+  { "id": "line_11", "number": "11", "name": "Ligne 11", "color": "#8D5E2A", "mode": "metro", "opened": "1935-04-28", "closed": null },
+  { "id": "line_12", "number": "12", "name": "Ligne 12", "color": "#007E5F", "mode": "metro", "opened": "1910-11-05", "closed": null },
+  { "id": "line_13", "number": "13", "name": "Ligne 13", "color": "#6EC4E8", "mode": "metro", "opened": "1911-02-26", "closed": null },
+  { "id": "line_14", "number": "14", "name": "Ligne 14", "color": "#62259D", "mode": "metro", "opened": "1998-10-15", "closed": null }
 ]
