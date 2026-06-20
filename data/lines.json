@@ -1,1 +1,11 @@
-
+[
+  {
+    "id": "line_01",
+    "number": "1",
+    "name": "Ligne 1",
+    "color": "#FFCD00",
+    "mode": "metro",
+    "opened": "1900-07-19",
+    "closed": null
+  }
+]
