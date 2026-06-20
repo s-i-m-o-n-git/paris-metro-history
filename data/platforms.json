@@ -1,23 +1,24 @@
 [
-  {
-    "id": "platform_line_01_bastille",
-    "station": "station_bastille",
-    "line": "line_01",
-    "opened": "1900-07-19",
-    "closed": null
-  },
-  {
-    "id": "platform_line_01_gare_de_lyon",
-    "station": "station_gare_de_lyon",
-    "line": "line_01",
-    "opened": "1900-07-19",
-    "closed": null
-  },
-  {
-    "id": "platform_line_01_reuilly_diderot",
-    "station": "station_reuilly_diderot",
-    "line": "line_01",
-    "opened": "1900-07-19",
-    "closed": null
-  }
+  { "id": "platform_line_01_la_defense", "station": "station_la_defense", "line": "line_01", "opened": "1992-04- La Défense", "closed": null },
+  { "id": "platform_line_01_esplanade", "station": "station_esplanade_de_la_defense", "line": "line_01", "opened": "1937-01-01", "closed": null },
+  { "id": "platform_line_01_pont_neuilly", "station": "station_pont_de_neuilly", "line": "line_01", "opened": "1937-01-01", "closed": null },
+  { "id": "platform_line_01_sablons", "station": "station_les_sablons", "line": "line_01", "opened": "1937-01-01", "closed": null },
+  { "id": "platform_line_01_maillot", "station": "station_neuilly_portes_maillot", "line": "line_01", "opened": "1900-07-19", "closed": null },
+
+  { "id": "platform_line_01_argentine", "station": "station_argentine", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_etoile", "station": "station_charles_de_gaulle_etoile", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_georgev", "station": "station_george_v", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_franklin", "station": "station_franklin_d_roosevelt", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_champs", "station": "station_champs_elysees_clemenceau", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_concorde", "station": "station_concorde", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_tuileries", "station": "station_tuileries", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_palais_royal", "station": "station_palais_royal_musee_du_louvre", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_louvre", "station": "station_louvre_rivoli", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_chatelet", "station": "station_chatelet", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_hoteldeville", "station": "station_hotel_de_ville", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_saintpaul", "station": "station_saint_paul", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_bastille", "station": "station_bastille", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_garelyon", "station": "station_gare_de_lyon", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_reuilly", "station": "station_reuilly_diderot", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_line_01_nation", "station": "station_nation", "line": "line_01", "opened": "1900-07-19", "closed": null }
 ]
