@@ -1,29 +1,14 @@
 [
-  { "id": "platform_l1_chateau_de_vincennes", "station": "station_chateau_de_vincennes", "line": "line_01", "opened": "1934-03-24", "closed": null },
-  { "id": "platform_l1_berault", "station": "station_berault", "line": "line_01", "opened": "1934-03-24", "closed": null },
-  { "id": "platform_l1_saint_mande", "station": "station_saint_mande", "line": "line_01", "opened": "1934-03-24", "closed": null },
+  { "id": "platform_l1_chatelet", "station": "station_chatelet", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_l1_bastille", "station": "station_bastille", "line": "line_01", "opened": "1900-07-19", "closed": null },
   { "id": "platform_l1_nation", "station": "station_nation", "line": "line_01", "opened": "1900-07-19", "closed": null },
 
-  { "id": "platform_l1_reuilly_diderot", "station": "station_reuilly_diderot", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_gare_de_lyon", "station": "station_gare_de_lyon", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_bastille", "station": "station_bastille", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_saint_paul", "station": "station_saint_paul", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_hotel_de_ville", "station": "station_hotel_de_ville", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_chatelet", "station": "station_chatelet", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_l2_nation", "station": "station_nation", "line": "line_02", "opened": "1900-10-13", "closed": null },
+  { "id": "platform_l2_bourse", "station": "station_bourse", "line": "line_02", "opened": "1900-10-13", "closed": null },
 
-  { "id": "platform_l1_louvre_rivoli", "station": "station_louvre_rivoli", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_palais_royal", "station": "station_palais_royal", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_tuileries", "station": "station_tuileries", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_concorde", "station": "station_concorde", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_champs", "station": "station_champs_elysees_clemenceau", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_franklin", "station": "station_franklin_d_roosevelt", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_georgev", "station": "station_george_v", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_etoile", "station": "station_charles_de_gaulle_etoile", "line": "line_01", "opened": "1900-07-19", "closed": null },
+  { "id": "platform_l4_chatelet", "station": "station_chatelet", "line": "line_04", "opened": "1908-04-21", "closed": null },
 
-  { "id": "platform_l1_argentine", "station": "station_argentine", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_porte_maillot", "station": "station_porte_maillot", "line": "line_01", "opened": "1900-07-19", "closed": null },
-  { "id": "platform_l1_sablons", "station": "station_les_sablons", "line": "line_01", "opened": "1937-04-29", "closed": null },
-  { "id": "platform_l1_pont_neuilly", "station": "station_pont_de_neuilly", "line": "line_01", "opened": "1937-04-29", "closed": null },
-  { "id": "platform_l1_esplanade", "station": "station_esplanade_de_la_defense", "line": "line_01", "opened": "1992-04-01", "closed": null },
-  { "id": "platform_l1_la_defense", "station": "station_la_defense", "line": "line_01", "opened": "1992-04-01", "closed": null }
+  { "id": "platform_l11_republique", "station": "station_republique", "line": "line_11", "opened": "1935-04-28", "closed": null },
+
+  { "id": "platform_l14_chatelet", "station": "station_chatelet", "line": "line_14", "opened": "1998-10-15", "closed": null }
 ]
