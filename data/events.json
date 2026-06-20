@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": "event_000001",
+    "date": "1900-07-19",
+    "type": "line_opened",
+    "target": "line_01"
+  },
+  {
+    "id": "event_000002",
+    "date": "1900-07-19",
+    "type": "platform_opened",
+    "target": "platform_line_01_bastille"
+  },
+  {
+    "id": "event_000003",
+    "date": "1900-07-19",
+    "type": "platform_opened",
+    "target": "platform_line_01_gare_de_lyon"
+  }
+]
