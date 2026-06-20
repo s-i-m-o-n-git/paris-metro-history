@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "platform_line_01_bastille",
+    "station": "station_bastille",
+    "line": "line_01",
+    "opened": "1900-07-19",
+    "closed": null
+  },
+  {
+    "id": "platform_line_01_gare_de_lyon",
+    "station": "station_gare_de_lyon",
+    "line": "line_01",
+    "opened": "1900-07-19",
+    "closed": null
+  },
+  {
+    "id": "platform_line_01_reuilly_diderot",
+    "station": "station_reuilly_diderot",
+    "line": "line_01",
+    "opened": "1900-07-19",
+    "closed": null
+  }
+]
