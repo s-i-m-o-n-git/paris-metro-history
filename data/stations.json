@@ -1,17 +1,23 @@
 [
-  {
-    "id": "station_bastille",
-    "current_name": "Bastille",
-    "city": "Paris"
-  },
-  {
-    "id": "station_gare_de_lyon",
-    "current_name": "Gare de Lyon",
-    "city": "Paris"
-  },
-  {
-    "id": "station_reuilly_diderot",
-    "current_name": "Reuilly – Diderot",
-    "city": "Paris"
-  }
+  { "id": "station_la_defense", "current_name": "La Défense", "city": "Paris" },
+  { "id": "station_esplanade_de_la_defense", "current_name": "Esplanade de la Défense", "city": "Paris" },
+  { "id": "station_pont_de_neuilly", "current_name": "Pont de Neuilly", "city": "Paris" },
+  { "id": "station_les_sablons", "current_name": "Les Sablons", "city": "Paris" },
+  { "id": "station_neuilly_portes_maillot", "current_name": "Porte Maillot", "city": "Paris" },
+  { "id": "station_argentine", "current_name": "Argentine", "city": "Paris" },
+  { "id": "station_charles_de_gaulle_etoile", "current_name": "Charles de Gaulle – Étoile", "city": "Paris" },
+  { "id": "station_george_v", "current_name": "George V", "city": "Paris" },
+  { "id": "station_franklin_d_roosevelt", "current_name": "Franklin D. Roosevelt", "city": "Paris" },
+  { "id": "station_champs_elysees_clemenceau", "current_name": "Champs-Élysées – Clemenceau", "city": "Paris" },
+  { "id": "station_concorde", "current_name": "Concorde", "city": "Paris" },
+  { "id": "station_tuileries", "current_name": "Tuileries", "city": "Paris" },
+  { "id": "station_palais_royal_musee_du_louvre", "current_name": "Palais Royal – Musée du Louvre", "city": "Paris" },
+  { "id": "station_louvre_rivoli", "current_name": "Louvre – Rivoli", "city": "Paris" },
+  { "id": "station_chatelet", "current_name": "Châtelet", "city": "Paris" },
+  { "id": "station_hotel_de_ville", "current_name": "Hôtel de Ville", "city": "Paris" },
+  { "id": "station_saint_paul", "current_name": "Saint-Paul", "city": "Paris" },
+  { "id": "station_bastille", "current_name": "Bastille", "city": "Paris" },
+  { "id": "station_gare_de_lyon", "current_name": "Gare de Lyon", "city": "Paris" },
+  { "id": "station_reuilly_diderot", "current_name": "Reuilly – Diderot", "city": "Paris" },
+  { "id": "station_nation", "current_name": "Nation", "city": "Paris" }
 ]
