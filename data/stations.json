@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": "station_bastille",
+    "current_name": "Bastille",
+    "city": "Paris"
+  },
+  {
+    "id": "station_gare_de_lyon",
+    "current_name": "Gare de Lyon",
+    "city": "Paris"
+  },
+  {
+    "id": "station_reuilly_diderot",
+    "current_name": "Reuilly – Diderot",
+    "city": "Paris"
+  }
+]
