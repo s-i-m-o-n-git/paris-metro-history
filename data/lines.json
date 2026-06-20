@@ -1,7 +1,6 @@
 [
   { "id": "line_01", "number": "1", "name": "Ligne 1", "color": "#FFCD00", "mode": "metro", "opened": "1900-07-19", "closed": null },
-
-  { "id": "line_02", "number": "2", "name": "Ligne 2", "color": "#0064B0", "mode": "metro", "opened": "1903-01-31", "closed": null },
+  { "id": "line_02", "number": "2", "name": "Ligne 2", "color": "#0064B0", "mode": "metro", "opened": "1900-10-13", "closed": null },
   { "id": "line_03", "number": "3", "name": "Ligne 3", "color": "#837902", "mode": "metro", "opened": "1904-10-19", "closed": null },
   { "id": "line_04", "number": "4", "name": "Ligne 4", "color": "#C04191", "mode": "metro", "opened": "1908-04-21", "closed": null },
   { "id": "line_05", "number": "5", "name": "Ligne 5", "color": "#F28E42", "mode": "metro", "opened": "1906-06-17", "closed": null },
