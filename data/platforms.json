@@ -1,5 +1,5 @@
 [
-  { "id": "platform_line_01_la_defense", "station": "station_la_defense", "line": "line_01", "opened": "1992-04- La Défense", "closed": null },
+  { "id": "platform_line_01_la_defense", "station": "station_la_defense", "line": "line_01", "opened": "1992-04-La Défense", "closed": null },
   { "id": "platform_line_01_esplanade", "station": "station_esplanade_de_la_defense", "line": "line_01", "opened": "1937-01-01", "closed": null },
   { "id": "platform_line_01_pont_neuilly", "station": "station_pont_de_neuilly", "line": "line_01", "opened": "1937-01-01", "closed": null },
   { "id": "platform_line_01_sablons", "station": "station_les_sablons", "line": "line_01", "opened": "1937-01-01", "closed": null },
