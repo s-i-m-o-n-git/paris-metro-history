@@ -1,11 +1,16 @@
 [
-  { "id": "event_000001", "date": "1900-07-19", "type": "line_opened", "target": "line_01" },
+  {
+    "id": "event_000001",
+    "date": "1900-07-19",
+    "type": "line_opened",
+    "target": "line_01"
+  },
 
-  { "id": "event_000002", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_maillot" },
-  { "id": "event_000003", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_argentine" },
-  { "id": "event_000004", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_etoile" },
-  { "id": "event_000005", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_concorde" },
-  { "id": "event_000006", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_chatelet" },
-  { "id": "event_000007", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_bastille" },
-  { "id": "event_000008", "date": "1900-07-19", "type": "platform_opened", "target": "platform_line_01_nation" }
+  { "id": "event_000002", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_porte_maillot" },
+  { "id": "event_000003", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_argentine" },
+  { "id": "event_000004", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_etoile" },
+  { "id": "event_000005", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_concorde" },
+  { "id": "event_000006", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_chatelet" },
+  { "id": "event_000007", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_bastille" },
+  { "id": "event_000008", "date": "1900-07-19", "type": "platform_opened", "target": "platform_l1_nation" }
 ]
